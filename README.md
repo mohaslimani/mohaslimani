@@ -2,9 +2,11 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohaslimani&theme=dark&background=000000)](https://git.io/streak-stats)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaslimani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohaslimani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 <!-- <a href="https://github.com/mohaslimani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaslimani&theme=dark"/>
 </a> -->
