@@ -3,10 +3,11 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohaslimani&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/mohaslimani?tab=repositories">
+<!-- <a href="https://github.com/mohaslimani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaslimani&theme=dark"/>
-</a>
+</a> -->
 <a href="https://github.com/mohaslimani?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohaslimani&line_height=40&show_icons=true&theme=dark">
 </a>
